@@ -1,0 +1,2 @@
+use db;
+CREATE TABLE `db`.`doarreg` ( `name` VARCHAR(200) NOT NULL ,  `gender` VARCHAR(20) NOT NULL ,  `dob` DATE NOT NULL ,  `bloodgroup` VARCHAR(20) NOT NULL ,  `mobileno` BIGINT(20) NOT NULL ,  `email` VARCHAR(100) NOT NULL ,  `address` VARCHAR(500) NOT NULL ,  `state` VARCHAR(50) NOT NULL ,  `city` VARCHAR(50) NOT NULL ,    PRIMARY KEY  (`email`) ) ENGINE = InnoDB;

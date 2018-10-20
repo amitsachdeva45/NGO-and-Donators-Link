@@ -1,0 +1,9 @@
+enter database.php
+
+to start database
+
+C:\wamp\www>mysql -u root
+
+or 
+
+mysqlconsole

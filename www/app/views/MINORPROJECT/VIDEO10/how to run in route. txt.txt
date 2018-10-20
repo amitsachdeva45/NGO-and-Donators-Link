@@ -1,0 +1,12 @@
+Route::get('/',function(){
+
+	return View::make('MINORPROJECT/VIDEO10/home');
+});
+Route::get('contact',function(){
+
+	return View::make('MINORPROJECT/VIDEO10/contact');
+});
+Route::get('about',function(){
+
+	return View::make('MINORPROJECT/VIDEO10/about');
+});

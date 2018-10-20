@@ -1,0 +1,4 @@
+
+;CREATE RESOURCE FILE ALL USEFUL METHOD and goes in controller page
+
+C:\wamp\www>php artisan controller:make projectController
